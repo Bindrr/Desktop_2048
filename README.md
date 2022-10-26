@@ -8,3 +8,5 @@ Uses:
 2) JPanel
 3) SOLID principles
 4) Intelligent movement prediction
+
+*This project was originally developed for JavaRush
