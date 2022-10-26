@@ -1,4 +1,4 @@
-package com.javarush.task.task35.task3513_2048.state;
+package state;
 
 public class StackStateReturner implements StateReturner {
     private static StackStateReturner instance = null;

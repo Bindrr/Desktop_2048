@@ -1,13 +1,13 @@
-package com.javarush.task.task35.task3513_2048.model;
+package model;
 
-import com.javarush.task.task35.task3513_2048.controller.Controller;
-import com.javarush.task.task35.task3513_2048.objects.Move;
-import com.javarush.task.task35.task3513_2048.objects.MoveEfficiency;
-import com.javarush.task.task35.task3513_2048.state.State;
-import com.javarush.task.task35.task3513_2048.state.StateReturner;
-import com.javarush.task.task35.task3513_2048.state.StateSaver;
-import com.javarush.task.task35.task3513_2048.objects.Tile;
-import com.javarush.task.task35.task3513_2048.view.MainView;
+import controller.Controller;
+import objects.Move;
+import objects.MoveEfficiency;
+import objects.Tile;
+import state.State;
+import state.StateReturner;
+import state.StateSaver;
+import view.MainView;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package com.javarush.task.task35.task3513_2048.objects;
+package objects;
 
 import java.awt.*;
 

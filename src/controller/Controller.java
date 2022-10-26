@@ -1,8 +1,8 @@
-package com.javarush.task.task35.task3513_2048.controller;
+package controller;
 
-import com.javarush.task.task35.task3513_2048.objects.Tile;
-import com.javarush.task.task35.task3513_2048.view.MainView;
-import com.javarush.task.task35.task3513_2048.model.GameModel;
+import model.GameModel;
+import objects.Tile;
+import view.MainView;
 
 import java.awt.event.KeyAdapter;
 import java.awt.event.KeyEvent;

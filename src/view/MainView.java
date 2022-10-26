@@ -1,7 +1,7 @@
-package com.javarush.task.task35.task3513_2048.view;
+package view;
 
-import com.javarush.task.task35.task3513_2048.objects.Tile;
-import com.javarush.task.task35.task3513_2048.controller.Controller;
+import controller.Controller;
+import objects.Tile;
 
 import javax.swing.*;
 import java.awt.*;

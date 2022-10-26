@@ -1,7 +1,7 @@
-package com.javarush.task.task35.task3513_2048.state;
+package state;
 
-import com.javarush.task.task35.task3513_2048.model.GameModel;
-import com.javarush.task.task35.task3513_2048.objects.Tile;
+import model.GameModel;
+import objects.Tile;
 
 import java.util.Stack;
 

@@ -1,4 +1,4 @@
-package com.javarush.task.task35.task3513_2048.view;
+package view;
 
 public interface View {
     boolean isGameWon();

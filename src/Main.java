@@ -1,11 +1,9 @@
-package com.javarush.task.task35.task3513_2048;
-
-import com.javarush.task.task35.task3513_2048.controller.Controller;
-import com.javarush.task.task35.task3513_2048.model.GameModel;
-import com.javarush.task.task35.task3513_2048.state.StackStateReturner;
-import com.javarush.task.task35.task3513_2048.state.StackStateSaver;
-import com.javarush.task.task35.task3513_2048.state.StateSaver;
-import com.javarush.task.task35.task3513_2048.view.MainView;
+import controller.Controller;
+import model.GameModel;
+import state.StackStateReturner;
+import state.StackStateSaver;
+import state.StateSaver;
+import view.MainView;
 
 import javax.swing.*;
 import java.util.List;
