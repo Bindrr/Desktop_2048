@@ -9,6 +9,4 @@ Uses:
 3) SOLID principles
 4) Intelligent movement prediction
 
-crazy
-
 *This project was originally developed for JavaRush
