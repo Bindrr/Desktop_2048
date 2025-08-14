@@ -3,6 +3,8 @@ A copy of the famous 2048 Android app adapted as a graphical desktop app, keepin
 
 Auto move constructs all possible Game states which could be gotten from the current Game state (Taking into account all possible moves), determines the best one, and takes the first move which is required to get there.
 
+ab
+
 Uses:
 1) MVC pattern
 2) JPanel
